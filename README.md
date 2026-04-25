@@ -1,16 +1,17 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
-- [bumpy](#bumpy)
-  - [Building](#building)
-  - [Contributing](#contributing)
-  - [License](#license)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # bumpy
 
 A simple and extendable Windows and Linux compatible bump-allocator / arena allocator.
+
+## Table of Contents
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Building](#building)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Building
 
