@@ -1,0 +1,11 @@
+# Env and lsp specific artifacts
+.cache
+.direnv
+
+# Build artifacts
+lib
+out
+compile_commands.json
+
+# Nix artifacts
+result
