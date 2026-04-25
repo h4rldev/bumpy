@@ -19,6 +19,11 @@ typedef uint32_t u32;
 typedef uint64_t u64;
 typedef int32_t i32;
 
+// Convenience macros for converting between types.
+#define KiB(num) ((u64)num << 10)
+#define MiB(num) ((u64)num << 20)
+#define GiB(num) ((u64)num << 30)
+
 /*
  * @brief The arena struct.
  *

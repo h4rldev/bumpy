@@ -3,6 +3,10 @@
 
 #include <bumpy.h>
 
+#define KiB(num) ((u64)num << 10)
+#define MiB(num) ((u64)num << 20)
+#define GiB(num) ((u64)num << 30)
+
 #define ALIGN_POW2(num, pow)                                                   \
   (((u64)(num) + ((u64)(pow) - 1)) & (~((u64)(pow) - 1)))
 
