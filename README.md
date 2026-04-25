@@ -13,7 +13,7 @@ A simple and extendable Windows and Linux compatible bump-allocator / arena allo
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Building
+### Building
 
 - Install [just](https://github.com/casey/just)
 - Set your `cc` in the justfile to the C compiler you want to use.
@@ -23,10 +23,10 @@ A simple and extendable Windows and Linux compatible bump-allocator / arena allo
 just build
 ```
 
-## Contributing
+### Contributing
 
 Contributions are welcome, especially if there's any security concerns.
 
-## License
+### License
 
 This project is licensed under the BSD-3 Clause License - see the [LICENSE](LICENSE) file for details
